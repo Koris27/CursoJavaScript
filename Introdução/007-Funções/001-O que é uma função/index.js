@@ -26,3 +26,14 @@ const isValidArrow = () => {
     return multiplicação;
 }
 console.log(isValidArrow());
+
+
+
+
+
+
+
+
+
+https://github.com/renzooliveira/rdo_mobile_app.git
+
